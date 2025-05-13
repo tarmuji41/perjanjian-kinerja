@@ -1,0 +1,8 @@
+{
+  "name": "cuti pegawai",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "faef4ea5"
+}
